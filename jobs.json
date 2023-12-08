@@ -1,0 +1,194 @@
+[
+  {
+    "JobId": 1,
+    "ApplicationDeadline": "2023-10-15",
+    "Posted": "2023-09-01",
+    "StartingDate": "2024-01-15",
+    "JobTitle": "Maths Teacher",
+    "PositionType": "Full-time",
+    "PositionsAvailable": 2,
+    "JobDescription": "Join our school as a passionate Maths Teacher! We are seeking individuals with a Bachelor's Degree in Mathematics, a knack for innovative teaching methods, and the ability to create an engaging learning environment.",
+    "Qualification": "Bachelor's Degree in Mathematics",
+    "minSalaryIn$": 500,
+    "maxSalaryIn$": 1200,
+    "experienceRequiredInYears": 3,
+    "gradeLevel": [
+      "primary",
+      "intermediate"
+    ],
+    "jobLocation": "New York",
+    "skills": "Innovative Teaching, Classroom Management, Mathematics"
+  },
+  {
+    "JobId": 2,
+    "ApplicationDeadline": "2023-10-10",
+    "Posted": "2023-09-02",
+    "StartingDate": "2024-11-01",
+    "JobTitle": "Science Teacher",
+    "PositionType": "Full-time",
+    "PositionsAvailable": 3,
+    "JobDescription": "Exciting opportunity for a Science Teacher! We are looking for candidates with a Bachelor's Degree in Science, a passion for hands-on experiments, and the ability to make science come alive for students.",
+    "Qualification": "Bachelor's Degree in Science",
+    "minSalaryIn$": 550,
+    "maxSalaryIn$": 1300,
+    "experienceRequiredInYears": 4,
+    "gradeLevel": [
+      "primary",
+      "intermediate"
+    ],
+    "jobLocation": "Los Angeles",
+    "skills": "Hands-on Experiments, Science Education, Classroom Engagement"
+  },
+  {
+    "JobId": 3,
+    "ApplicationDeadline": "2023-10-20",
+    "Posted": "2023-09-05",
+    "StartingDate": "2024-12-01",
+    "JobTitle": "Computer Science Teacher",
+    "PositionType": "Full-time",
+    "PositionsAvailable": 2,
+    "JobDescription": "Become a Computer Science Teacher at our school! We are looking for tech-savvy individuals with a Bachelor's Degree in Computer Science and a passion for inspiring the next generation of programmers.",
+    "Qualification": "Bachelor's Degree in Computer Science",
+    "minSalaryIn$": 600,
+    "maxSalaryIn$": 1400,
+    "experienceRequiredInYears": 5,
+    "gradeLevel": [
+      "intermediate",
+      "secondary"
+    ],
+    "jobLocation": "San Francisco",
+    "skills": "Programming Languages, Educational Technology, Classroom Instruction"
+  },
+  {
+    "JobId": 4,
+    "ApplicationDeadline": "2023-11-01",
+    "Posted": "2023-09-10",
+    "StartingDate": "2024-01-15",
+    "JobTitle": "Physics Teacher",
+    "PositionType": "Full-time",
+    "PositionsAvailable": 1,
+    "JobDescription": "Join our team as a Physics Teacher! We are looking for individuals with a strong background in physics, a Master's Degree in Education, and a passion for making complex concepts accessible to students.",
+    "Qualification": "Master's Degree in Education with a focus on Physics",
+    "minSalaryIn$": 700,
+    "maxSalaryIn$": 1600,
+    "experienceRequiredInYears": 6,
+    "gradeLevel": [
+      "secondary"
+    ],
+    "jobLocation": "Seattle",
+    "skills": "Physics, Teaching Strategies, Educational Leadership"
+  },
+  {
+    "JobId": 5,
+    "ApplicationDeadline": "2023-10-25",
+    "Posted": "2023-09-15",
+    "StartingDate": "2024-01-12",
+    "JobTitle": "Biology Teacher",
+    "PositionType": "Full-time",
+    "PositionsAvailable": 2,
+    "JobDescription": "Exciting opportunity for a Biology Teacher! We are seeking individuals with a Bachelor's Degree in Biology, a passion for life sciences, and the ability to create engaging lessons that inspire students.",
+    "Qualification": "Bachelor's Degree in Biology",
+    "minSalaryIn$": 550,
+    "maxSalaryIn$": 1300,
+    "experienceRequiredInYears": 4,
+    "gradeLevel": [
+      "secondary"
+    ],
+    "jobLocation": "Chicago",
+    "skills": "Life Sciences, Curriculum Development, Classroom Engagement"
+  },
+  {
+    "JobId": 6,
+    "ApplicationDeadline": "2023-10-18",
+    "Posted": "2023-09-20",
+    "StartingDate": "2023-12-15",
+    "JobTitle": "Algebra Teacher",
+    "PositionType": "Full-time",
+    "PositionsAvailable": 1,
+    "JobDescription": "Join our school as an Algebra Teacher! We are looking for individuals with expertise in algebra, a Bachelor's Degree in Mathematics, and a passion for helping students develop strong math skills.",
+    "Qualification": "Bachelor's Degree in Mathematics",
+    "minSalaryIn$": 500,
+    "maxSalaryIn$": 1200,
+    "experienceRequiredInYears": 3,
+    "gradeLevel": [
+      "secondary"
+    ],
+    "jobLocation": "Houston",
+    "skills": "Algebra, Math Instruction, Student Support"
+  },
+  {
+    "JobId": 7,
+    "ApplicationDeadline": "2023-10-22",
+    "Posted": "2023-09-25",
+    "StartingDate": "2023-12-26",
+    "JobTitle": "Chemistry Teacher",
+    "PositionType": "Full-time",
+    "PositionsAvailable": 2,
+    "JobDescription": "Become a Chemistry Teacher at our school! We are looking for individuals with a Bachelor's Degree in Chemistry, a passion for experimental sciences, and the ability to make chemistry concepts accessible to students.",
+    "Qualification": "Bachelor's Degree in Chemistry",
+    "minSalary": 600,
+    "maxSalary": 1400,
+    "experienceRequiredInYears": 5,
+    "gradeLevel": [
+      "secondary"
+    ],
+    "jobLocation": "Miami",
+    "skills": "Chemistry, Experimental Sciences, Classroom Instruction"
+  },
+  {
+    "JobId": 8,
+    "ApplicationDeadline": "2023-11-05",
+    "Posted": "2023-10-01",
+    "StartingDate": "2023-12-15",
+    "JobTitle": "Computer Science Instructor",
+    "PositionType": "Full-time",
+    "PositionsAvailable": 1,
+    "JobDescription": "Join our team as a Computer Science Instructor! We are looking for tech-savvy individuals with a Master's Degree in Computer Science and a passion for inspiring students in advanced programming concepts.",
+    "Qualification": "Master's Degree in Computer Science",
+    "minSalaryIn$": 700,
+    "maxSalaryIn$": 1600,
+    "experienceRequiredInYears": 6,
+    "gradeLevel": [
+      "intermediate",
+      "secondary"
+    ],
+    "jobLocation": "Boston",
+    "skills": "Advanced Programming, Educational Technology, Classroom Instruction"
+  },
+  {
+    "JobId": 9,
+    "ApplicationDeadline": "2023-11-10",
+    "Posted": "2023-10-05",
+    "StartingDate": "2024-01-01",
+    "JobTitle": "Physics Instructor",
+    "PositionType": "Full-time",
+    "PositionsAvailable": 1,
+    "JobDescription": "Exciting opportunity for a Physics Instructor! We are seeking individuals with a Master's Degree in Physics Education, a passion for theoretical physics, and the ability to engage students in complex scientific concepts.",
+    "Qualification": "Master's Degree in Physics Education",
+    "minSalaryIn$": 750,
+    "maxSalaryIn$": 1700,
+    "experienceRequiredInYears": 7,
+    "gradeLevel": [
+      "secondary"
+    ],
+    "jobLocation": "Denver",
+    "skills": "Theoretical Physics, Educational Leadership, Classroom Engagement"
+  },
+  {
+    "JobId": 10,
+    "ApplicationDeadline": "2023-12-01",
+    "Posted": "2023-11-01",
+    "StartingDate": "2024-01-15",
+    "JobTitle": "Yoga Instructor",
+    "PositionType": "Part-time",
+    "PositionsAvailable": 2,
+    "JobDescription": "Join our wellness team as a Yoga Instructor! We are seeking individuals with a passion for yoga, certified in yoga instruction, and capable of creating a peaceful and rejuvenating experience for participants. Responsibilities include leading yoga classes, providing guidance on poses and breathing techniques, and promoting overall well-being.",
+    "Qualification": "Yoga Certification",
+    "minSalaryIn$": 25,
+    "maxSalaryIn$": 50,
+    "experienceRequiredInYears": 2,
+    "gradeLevel": ["primary","secondary","intermediate"],
+    "jobLocation": "San Diego",
+    "skills": "Yoga Instruction, Poses, Mindfulness"
+  }
+]
