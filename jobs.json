@@ -9,8 +9,8 @@
     "PositionsAvailable": 2,
     "JobDescription": "Join our school as a passionate Maths Teacher! We are seeking individuals with a Bachelor's Degree in Mathematics, a knack for innovative teaching methods, and the ability to create an engaging learning environment.",
     "Qualification": "Bachelor's Degree in Mathematics",
-    "minSalaryIn$": 500,
-    "maxSalaryIn$": 1200,
+    "minSalaryInDollars": 500,
+    "maxSalaryInDollars": 1200,
     "experienceRequiredInYears": 3,
     "gradeLevel": [
       "primary",
@@ -29,8 +29,8 @@
     "PositionsAvailable": 3,
     "JobDescription": "Exciting opportunity for a Science Teacher! We are looking for candidates with a Bachelor's Degree in Science, a passion for hands-on experiments, and the ability to make science come alive for students.",
     "Qualification": "Bachelor's Degree in Science",
-    "minSalaryIn$": 550,
-    "maxSalaryIn$": 1300,
+    "minSalaryInDollars": 550,
+    "maxSalaryInDollars": 1300,
     "experienceRequiredInYears": 4,
     "gradeLevel": [
       "primary",
@@ -49,8 +49,8 @@
     "PositionsAvailable": 2,
     "JobDescription": "Become a Computer Science Teacher at our school! We are looking for tech-savvy individuals with a Bachelor's Degree in Computer Science and a passion for inspiring the next generation of programmers.",
     "Qualification": "Bachelor's Degree in Computer Science",
-    "minSalaryIn$": 600,
-    "maxSalaryIn$": 1400,
+    "minSalaryInDollars": 600,
+    "maxSalaryInDollars": 1400,
     "experienceRequiredInYears": 5,
     "gradeLevel": [
       "intermediate",
@@ -69,8 +69,8 @@
     "PositionsAvailable": 1,
     "JobDescription": "Join our team as a Physics Teacher! We are looking for individuals with a strong background in physics, a Master's Degree in Education, and a passion for making complex concepts accessible to students.",
     "Qualification": "Master's Degree in Education with a focus on Physics",
-    "minSalaryIn$": 700,
-    "maxSalaryIn$": 1600,
+    "minSalaryInDollars": 700,
+    "maxSalaryInDollars": 1600,
     "experienceRequiredInYears": 6,
     "gradeLevel": [
       "secondary"
@@ -88,8 +88,8 @@
     "PositionsAvailable": 2,
     "JobDescription": "Exciting opportunity for a Biology Teacher! We are seeking individuals with a Bachelor's Degree in Biology, a passion for life sciences, and the ability to create engaging lessons that inspire students.",
     "Qualification": "Bachelor's Degree in Biology",
-    "minSalaryIn$": 550,
-    "maxSalaryIn$": 1300,
+    "minSalaryInDollars": 550,
+    "maxSalaryInDollars": 1300,
     "experienceRequiredInYears": 4,
     "gradeLevel": [
       "secondary"
@@ -107,8 +107,8 @@
     "PositionsAvailable": 1,
     "JobDescription": "Join our school as an Algebra Teacher! We are looking for individuals with expertise in algebra, a Bachelor's Degree in Mathematics, and a passion for helping students develop strong math skills.",
     "Qualification": "Bachelor's Degree in Mathematics",
-    "minSalaryIn$": 500,
-    "maxSalaryIn$": 1200,
+    "minSalaryInDollars": 500,
+    "maxSalaryInDollars": 1200,
     "experienceRequiredInYears": 3,
     "gradeLevel": [
       "secondary"
@@ -126,8 +126,8 @@
     "PositionsAvailable": 2,
     "JobDescription": "Become a Chemistry Teacher at our school! We are looking for individuals with a Bachelor's Degree in Chemistry, a passion for experimental sciences, and the ability to make chemistry concepts accessible to students.",
     "Qualification": "Bachelor's Degree in Chemistry",
-    "minSalary": 600,
-    "maxSalary": 1400,
+    "minSalaryInDollars": 600,
+    "maxSalaryInDollars": 1400,
     "experienceRequiredInYears": 5,
     "gradeLevel": [
       "secondary"
@@ -145,8 +145,8 @@
     "PositionsAvailable": 1,
     "JobDescription": "Join our team as a Computer Science Instructor! We are looking for tech-savvy individuals with a Master's Degree in Computer Science and a passion for inspiring students in advanced programming concepts.",
     "Qualification": "Master's Degree in Computer Science",
-    "minSalaryIn$": 700,
-    "maxSalaryIn$": 1600,
+    "minSalaryInDollars": 700,
+    "maxSalaryInDollars": 1600,
     "experienceRequiredInYears": 6,
     "gradeLevel": [
       "intermediate",
@@ -165,8 +165,8 @@
     "PositionsAvailable": 1,
     "JobDescription": "Exciting opportunity for a Physics Instructor! We are seeking individuals with a Master's Degree in Physics Education, a passion for theoretical physics, and the ability to engage students in complex scientific concepts.",
     "Qualification": "Master's Degree in Physics Education",
-    "minSalaryIn$": 750,
-    "maxSalaryIn$": 1700,
+    "minSalaryInDollars": 750,
+    "maxSalaryInDollars": 1700,
     "experienceRequiredInYears": 7,
     "gradeLevel": [
       "secondary"
@@ -184,8 +184,8 @@
     "PositionsAvailable": 2,
     "JobDescription": "Join our wellness team as a Yoga Instructor! We are seeking individuals with a passion for yoga, certified in yoga instruction, and capable of creating a peaceful and rejuvenating experience for participants. Responsibilities include leading yoga classes, providing guidance on poses and breathing techniques, and promoting overall well-being.",
     "Qualification": "Yoga Certification",
-    "minSalaryIn$": 25,
-    "maxSalaryIn$": 50,
+    "minSalaryInDollars": 25,
+    "maxSalaryInDollars": 50,
     "experienceRequiredInYears": 2,
     "gradeLevel": ["primary","secondary","intermediate"],
     "jobLocation": "San Diego",
